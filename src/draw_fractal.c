@@ -1,4 +1,4 @@
-#include "fractol.h"
+#include "../include/fractol.h"
 
 void	draw_mandelbrot(t_fractol *fractol)
 {

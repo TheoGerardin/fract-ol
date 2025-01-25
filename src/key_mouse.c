@@ -1,4 +1,4 @@
-#include "fractol.h"
+#include "../include/fractol.h"
 
 void	zoom(t_fractol *fractol, double zoom_factor)
 {

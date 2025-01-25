@@ -1,4 +1,4 @@
-#include "fractol.h"
+#include "../include/fractol.h"
 
 int	ft_verif(char *a, char *b)
 {

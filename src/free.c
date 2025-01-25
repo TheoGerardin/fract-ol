@@ -1,4 +1,4 @@
-#include "fractol.h"
+#include "../include/fractol.h"
 
 void	clean_up(t_fractol *fractol)
 {

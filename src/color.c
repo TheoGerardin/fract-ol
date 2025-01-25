@@ -1,4 +1,4 @@
-#include "fractol.h"
+#include "../include/fractol.h"
 
 void	put_color(t_fractol *fractol, int x, int y, int color)
 {

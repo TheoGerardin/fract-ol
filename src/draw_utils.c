@@ -1,4 +1,4 @@
-#include "fractol.h"
+#include "../include/fractol.h"
 
 void	init_var(t_fractal_var *var, t_fractol *fractol, int x, int y)
 {

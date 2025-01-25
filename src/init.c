@@ -1,4 +1,4 @@
-#include "fractol.h"
+#include "../include/fractol.h"
 
 void	init_fractol(t_fractol *fractol, int width, int height)
 {
